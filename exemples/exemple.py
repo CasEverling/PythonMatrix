@@ -1,4 +1,4 @@
-from question2 import Matrix, Vector
+from matrix import Matrix, Vector
 
 def matrix_multiply(A, B):
     """Compute matrix multiplication AB."""
